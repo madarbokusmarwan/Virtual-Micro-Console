@@ -1,0 +1,8 @@
+
+Erreur dans C:\Users\mwbok\OneDrive\Bureau\Storage Chest\PONG\SCRIPT.cs ------------------------------------------------------------------------------------------------
+>>>             txt("GAME OVER", (WIDTH - txt_size("GAME OVER")) / 2 + rnd(-1, 1), player.y - 40 + rnd(-1, 1));
+Erreur (128,39) : Le nom 'txt_size' n'existe pas dans le contexte actuel
+>>>             txt("\npress (A)", (WIDTH - txt_size("press (A)")) / 2, player.y - 30);
+Erreur (129,41) : Le nom 'txt_size' n'existe pas dans le contexte actuel
+
+-----------------------------------------------------------------------------------------------------------

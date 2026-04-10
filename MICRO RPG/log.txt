@@ -1,0 +1,8 @@
+
+Erreur dans C:\Users\mwbok\OneDrive\Bureau\Storage Chest\MICRO RPG\SCRIPT.cs ------------------------------------------------------------------------------------------------
+>>>             int pw = (WIDTH - 20) * Math.Min(Timer, 0);
+Erreur (97,22) : Impossible de convertir implicitement le type 'float' en 'int'. Une conversion explicite existe (un cast est-il manquant ?)
+>>>             int ph = 25 * Math.Min(Timer, 0);
+Erreur (98,22) : Impossible de convertir implicitement le type 'float' en 'int'. Une conversion explicite existe (un cast est-il manquant ?)
+
+-----------------------------------------------------------------------------------------------------------
