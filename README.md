@@ -30,4 +30,4 @@ This project is distributed under a proprietary "All Rights Reserved" license.
 See the `LICENSE` file for more details.
 
 ## Demo
-[![Watch the video]([https://img.youtube.com/vi/ABC123XYZ/0.jpg](https://i9.ytimg.com/vi_webp/hiYg0KIc59o/mqdefault.webp?v=69d93667&sqp=CPDr5M4G&rs=AOn4CLBKkhXJ2YLPiQmy9eiZhMinNsVm2g))](https://youtu.be/hiYg0KIc59o)
+[![Watch the video](https://img.youtube.com/vi/hiYg0KIc59o/0.jpg))](https://youtu.be/hiYg0KIc59o)
