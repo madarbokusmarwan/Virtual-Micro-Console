@@ -30,4 +30,5 @@ This project is distributed under a proprietary "All Rights Reserved" license.
 See the `LICENSE` file for more details.
 
 ## Demo
+Click on this thumbnail to watch a short demo
 [![Watch the video](https://img.youtube.com/vi/hiYg0KIc59o/0.jpg)](https://youtu.be/hiYg0KIc59o)
