@@ -1,0 +1,6 @@
+
+Erreur dans C:\Users\mwbok\OneDrive\Bureau\Storage Chest\Test\SCRIPT.cs ------------------------------------------------------------------------------------------------
+>>>         txt(t, (WIDTH - txt_size(t)) / 2f, 50);
+Erreur (25,25) : Le nom 'txt_size' n'existe pas dans le contexte actuel
+
+-----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+﻿
+ _   _ _      _               _  ___  ____                  _____                       _      
+| | | (_)    | |             | | |  \/  (_)                /  __ \                     | |     
+| | | |_ _ __| |_ _   _  __ _| | | .  . |_  ___ _ __ ___   | /  \/ ___  _ __  ___  ___ | | ___ 
+| | | | | '__| __| | | |/ _` | | | |\/| | |/ __| '__/ _ \  | |    / _ \| '_ \/ __|/ _ \| |/ _ \
+\ \_/ / | |  | |_| |_| | (_| | | | |  | | | (__| | | (_) | | \__/\ (_) | | | \__ \ (_) | |  __/
+ \___/|_|_|   \__|\__,_|\__,_|_| \_|  |_/_|\___|_|  \___/   \____/\___/|_| |_|___/\___/|_|\___|
+
+By Marwan.M
+2024
+ ---------------------------------------------------------------------------------------------
+
+	PROJECT DESCRIPTION :
+
+
+
+	HOW TO BEGIN :
+
+* first copy that 3 lines of codes in the constructor of game
+IsMouseVisible = false;
+this.IsFixedTimeStep = true;
+this.TargetElapsedTime = TimeSpan.FromSeconds(1d / 30d);
+
+* then create a new class which have to heritate of VirtualMicroConsole.cs
+
+* create a new instance of your new class before to call the fundamentals methods :
+Load(), Update() and Draw()
+
+* build the folder 'ASSETS' into the content
+
+* enjoy !
+
+	MUSIC && SOUNDS :
+
+snd(0 - 2) -> coin
+snd(3 - 5) -> laser
+snd(6 - 8) -> boom
+snd(9 - 12) -> jump
+snd(13 - 14) -> 1up
+snd(15 - 16) -> loose
+snd(17 - 19) -> hurt
+snd(20 - 22) -> bip
+
+music(0) -> adventure begins
+music(1) -> battle
+music(2) -> fire
+music(3) -> hello
+music(4) -> mini games
+music(5) -> mysterious
+music(6) -> spooky
+music(7) -> adventure begins
